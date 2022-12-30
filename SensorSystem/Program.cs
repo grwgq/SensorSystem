@@ -14,7 +14,6 @@ namespace SensorSystem
         [STAThread]
         static void Main()
         {
-            //Gitテストコメント
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
